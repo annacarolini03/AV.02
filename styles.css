@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+:root{
+        --branco:white;
+        --cor-de-fundo:#371B58;
+        --cor-de-senha:#BE3144;
+        --fundo-texto:#191825;
+        --borda:#37306B;
+        --fonte:'embed cod' , sans-serif;
+    }
+    *{
+        font-weight: 500;
+    }
+    body{
+        color:var(--branco)
+        background-color: var(var(--cor-de-fundo))
+        font-family:var(var(--fonte))
+    }
