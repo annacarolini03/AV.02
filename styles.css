@@ -50,6 +50,13 @@ body {
     background-color: var(--fundo-senha);
     border: none;
     color: var(--branco);
-    font: size 40px;
+    font-size: 40px;
     width: 70%;
+}
+#campo_senha:focus{
+    outline: none;
+}
+.conteudo_senha{
+    max-width: 1200px;
+    margin: 0 auto;
 }
