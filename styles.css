@@ -76,3 +76,21 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+.barra {
+    background-color: var(--fundo-senha);
+    height:30px;
+    width:100px;
+    border:1px solid var(--borda);
+}
+.fraca{
+    height:30px;
+    width:25px;
+    backgroud-color:
+}
+
+
+@media screen and (min-width 768px) {
+    .parametro-coluna__senha{
+        flex-direction: row;
+    }
+}
